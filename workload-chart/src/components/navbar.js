@@ -92,7 +92,6 @@ const Navbar = () => {
     <Container>
       <NavLink active={activeLink === "/"} onClick={() => handleNav("/")}>My Semester Workload</NavLink>
       <NavLink active={activeLink === "/search"} onClick={() => handleNav("/search")}>Semester Planning</NavLink>
-      <NavLink active={activeLink === "/tutorial"} onClick={() => handleNav("/tutorial")}>FAQ and Resources</NavLink>
       <Spacer />
       <p>{globalState.user && (
           <p>
