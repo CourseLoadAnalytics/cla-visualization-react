@@ -194,16 +194,16 @@ const ConsentForm = () => {
           <li>Only the researchers will have access to your study records.</li>
         </ul>
         <p>
-          All study data will only be stored on the AskOski server, which is
+          All study data will only be stored on the server, which is
           certified to process sensitive educational data and hosted. The certification is of Protection Level P3. Your data will be protected by only granting access to the data on
-          the AskOski server via remote, encrypted SSH access for analysis
+          the server via remote, encrypted SSH access for analysis
           purposes.
         </p>
         <p>
           Your personal information may be released if required by law.
           Authorized representatives from the following organizations may review
           your research data for purposes such as monitoring or managing the
-          conduct of this study: University of California.
+          conduct of this study.
         </p>
         <p>
           Identifiers might be removed from the identifiable private
